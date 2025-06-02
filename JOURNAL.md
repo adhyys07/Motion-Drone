@@ -15,3 +15,7 @@ I made a basic design of the pentacopter in Fusion 360 and researched about the 
 <br><br><br>
 ![image](https://github.com/user-attachments/assets/d3312348-025e-4584-be70-8b4778ae442e)
 
+
+LOG #2 (2 HOURS):
+I did more research about the stability of Drone and the transrecievers and I am done with the FC part. Finding good and cheap options for transrecievers and vrx and VTX systems and also started researching about the hand motion glove decided the flex sensors and gyro sensor for the glove 
+![image](https://github.com/user-attachments/assets/a7d7c588-0cc5-4068-8821-eede5ef7cc01)
