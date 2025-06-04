@@ -4,8 +4,10 @@
 ![Screenshot 2025-05-30 233549](https://github.com/user-attachments/assets/4db10822-6881-49aa-90ac-806b7b41e446)
 <br><br>
 <h3>V2</h3>
-![image](https://github.com/user-attachments/assets/0c34f3a7-e262-45fb-acb3-cb4fddedd874)
-<u><b>With motors and propellers (ik the motors are popping out of the protection cuz of the scale but will be fixed in real life and these images are only for references)</b></u>
+
+![Screenshot 2025-06-05 010343](https://github.com/user-attachments/assets/ea63b9bb-3ace-44b9-adae-82a3d7b5e814)
+
+<b>With motors and propellers (ik the motors are popping out of the protection cuz of the scale but will be fixed in real life and these images are only for references)</b>
 
 
 
