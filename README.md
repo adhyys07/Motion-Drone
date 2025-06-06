@@ -8,6 +8,10 @@
 ![Screenshot 2025-06-05 010343](https://github.com/user-attachments/assets/ea63b9bb-3ace-44b9-adae-82a3d7b5e814)
 
 <b>With motors and propellers (ik the motors are popping out of the protection cuz of the scale but will be fixed in real life and these images are only for references)</b>
+<br><br>
+<h3>Estimated Rough Cost</h3>
+
+![image](https://github.com/user-attachments/assets/af307320-13bc-4a6c-b776-1419eade5831)
 
 
 
